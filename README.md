@@ -47,7 +47,9 @@ This project focuses on bridging the gap between raw logistics data and business
 - **Shipping Cost by Carrier & Risk Category** — Matrix table + treemap visual
 
 ---
-
+## 📷 Dashboard Preview
+![Operations Dashboard]Operations_Dashboard_Overview.png
+![Operations Dashboard
 ## 💡 Key Insights
 
 - Over half of all shipments (53.59%) fall into the High Risk category, 
