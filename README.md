@@ -48,8 +48,9 @@ This project focuses on bridging the gap between raw logistics data and business
 
 ---
 ## 📷 Dashboard Preview
-![Operations Dashboard]Operations_Dashboard_Overview.png
-![Operations Dashboard
+
+![Operations Dashboard] Operations_Dashboard_Overview.png
+
 ## 💡 Key Insights
 
 - Over half of all shipments (53.59%) fall into the High Risk category, 
