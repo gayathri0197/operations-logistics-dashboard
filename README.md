@@ -64,14 +64,6 @@ This project focuses on bridging the gap between raw logistics data and business
 
 ---
 
-## 📁 Files Included
-- `operations-logistics-dashboard.pbix` → Power BI dashboard file
-- `operations-dashboard-report.pdf` → Exported dashboard report
-- `operations-dashboard-overview.png` → Dashboard preview image
-- `operations-logistics-dataset.xlsx` / `operations-logistics-dataset.csv` → Source dataset
-
----
-
 ## 🚀 What I Learned
 Building this project helped me strengthen my skills in:
 
